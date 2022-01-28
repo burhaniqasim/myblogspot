@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+
+layout: index
+title: "PAGE TITLE"
+permalink: /
